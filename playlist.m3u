@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1,News24
+https://tvsen6.aynaott.com/news24/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,Jamuna TV
+https://tvsen6.aynaott.com/jamunatv/tracks-v1a1/mono.ts.m3u8
